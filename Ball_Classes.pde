@@ -16,6 +16,7 @@ void draw()
 {
   background(0);
 
+
   myBall.run();
   myBall2.run();
   myBall3.run();
